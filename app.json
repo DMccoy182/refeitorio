@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "refeitorio",
+    "slug": "refeitorio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
